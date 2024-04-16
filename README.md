@@ -8,7 +8,7 @@ To execute this project you need to have the following tools installed in your c
 
 ## Set up the automation project
 1. Clone the repository in a location from your preference
-2. Open a terminal in the same location and nstall the project dependencies with `npm i`
+2. Open a terminal in the same location and install the project dependencies with `npm i`
 
 
 ## Run the project 
